@@ -1,0 +1,22 @@
+.imageMain {
+  height: 10vh;
+  width: 5vw;
+}
+.round {
+  border-radius: 15px;
+}
+.circle {
+  border-radius: 40px;
+}
+.small {
+  height: 10vh;
+  width: 5vw;
+}
+.medium {
+  height: 20vh;
+  width: 10vw;
+}
+.large {
+  height: 30vh;
+  width: 15vw;
+}
